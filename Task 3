@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My CV</title>
+	
+	<!-- Style -->
+	<style>
+	body {
+	background: purple;
+	color: yellow;
+	</style>
+	
+</head>
+<body>
+     <center><img src="https://res.cloudinary.com/wizardmc/image/upload/v1566744504/My/IMG_20190823_131053_834_g38w9j.jpg" width= "250" height= "280"><center>
+    <!-- personal info -->
+    <div>
+        <h3> Umar Abubakar</h3>
+        <h4> Blogger<br /> Programmer <br /> Web Developer(front End)</h4>
+        <p>
+            Address: Unguwar Sarakuna, Maiduguri byee-pass<br />
+            Bauchi, Bauchi State<br />
+            Phone: 08036285217, 08036433679<br />
+            E-mail: abubakarmcu@gmail.com, abubakarmcu@hotmail.com, abubakarmcu@yahoo.com<br />
+        </p>
+    </div>
+    <!-- description -->
+    <div>
+        <p>
+            Diligent and hardworking personnel with moderate experience in teaching and computer Knowledge. A real team player with strong work ethic, highly organised and efficient with zeal to excel in his profession through research, skills, and perseverance..
+        </p>
+    </div>
+    <!-- skills -->
+    <div>
+        <h3>Skills</h3>
+        <p>
+            Web design<br />
+            Leadership skills<br />
+            Confidentiality<br />
+            Software Proficiency<br />
+			Computer Operation<br />
+			Internet Operations<br />
+			Knowledge in Web Design<br />
+			Pc Maintenance and Troubleshooting<br />
+			Teaching and lesson jobs in Computer Courses<br />
+			Proficiency in all areas of Microsoft Office<br />
+			Good Communication skills, both written and verbal.
+        </p>
+    </div>
+    <!-- work history -->
+    <div>
+        <h3>Work Experience</h3>
+        <table cellspacing="10px">
+            <tr>
+                <td valign="top">2018 - 2019</td>
+                <td><strong>Jamwala Pc Planet Zaria, Kaduna State</strong><br></td>
+            </tr>
+            <tr>
+                <td valign="top">July - Oct 2017</td>
+                <td><strong>Annur Computer Training Center Giade, Bauchi State</strong><br></td>
+            </tr>
+        </table>
+    </div>
+    <!-- Education -->
+    <div>
+        <h3>Education</h3>
+        <table  cellspacing="20px">
+            <tr>
+                <td valign="top">Oct 2017 - jul 2019</td>
+                <td>
+                    <strong>Diploma in Computer Science</strong><br>
+                    <em>Abubakar Tatari Ali Polytechnic Bauchi.</em>
+                        
+                </td>
+            </tr>
+            <tr>
+                    <td valign="top">Sep. 2007- Aug. 2014</td>
+                    <td>
+                        <strong>Senior School Leaving Certificate</strong><br>
+                        <em>Government College Azare (Special School) Azare, Bauchi State.</em>
+                            
+                    </td>
+                </tr>
+        </table>
+    </div>
+    <!-- Hobbies -->
+    <div>
+        <h3>Hobbies</h3>
+        <p>
+            Reading, playing with codes, swimming.
+        </p>
+    </div>
+</body>
+</html>
